@@ -1,0 +1,3 @@
+from strategies.orderbook.latoken import LatokenOrderBookTrader
+from strategies.orderbook.poloniex import PoloniexOrderBookTrader
+from strategies.orderbook.digifinex import DigifinexOrderBookTrader
