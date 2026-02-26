@@ -1,4 +1,4 @@
-# Crypto Pump Trading Bot
+# Market Analysis and Strategy
 
 Automated cryptocurrency trading bot that detects and exploits pump events across multiple exchanges, controlled remotely via Telegram.
 
