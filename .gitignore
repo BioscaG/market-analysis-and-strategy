@@ -1,0 +1,23 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Logs
+*.log
+log.out
+book_order/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

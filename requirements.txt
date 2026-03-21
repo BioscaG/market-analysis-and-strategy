@@ -1,0 +1,7 @@
+ccxt>=4.4.0
+python-telegram-bot>=21.0
+python-dotenv
+colorama
+pandas
+numpy
+requests
